@@ -1,1 +1,1 @@
-# aws-lambda-sdk-ue4
+# gamelift-client-sdk-ue4-cpp
