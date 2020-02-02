@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+
+ThirdParty/
+Source/GameLiftClientSDK/Public/aws
+aws-sdk-cpp/
